@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Matthew Easton"
 title_separator          : "-"
-name                     : &name "Matthew easton"
+name                     : &name "Matthew Easton"
 description              : #&description "personal description"
 url                      : https://mattheweaston.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
