@@ -8,12 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-======
+I am currently building my website. For now, some (if not all) pages will be incomplete. 
+--------
+
 I am a third-year economics PhD student at Columbia University. 
 
 My current research interests are international trade, macroeconomics, and political economy. 
 
 Prior to coming to Columbia, I graduated from Pennsylvania State University and was a research assistant at the Federal Reserve Bank of Chicago.
-======
+
 
 
