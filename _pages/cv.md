@@ -11,49 +11,31 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, Columbia University, 2024 (expected)
+* M.A. in Economics, Columbia University, 2021
+* B.S. in Mathematics, Pennsylvania State University, 2016
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Prior Employment
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Assistant 2016-2018, Senior Research Assistant 2018-2019
+  * Federal Reserve Bank of Chicago
+  * Research and Policy Supervisors: Robert Barsky, Marco Bassetto, Spencer Krane
 
-Publications
+
+Teaching Assistant Experience (at Columbia University)
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Economics of New York City (undergraduate, Spring 2022, Donald Davis)
+* Financial Crises (undergraduate, Fall 2021, José Scheinkman)
+* Financial Economics (undergraduate, Spring 2021 and Summer 2021, Martina Jasova and Tamrat Gashaw)
+* Intermediate Macroeconomics (undergraduate, Fall 2020, Irasema Alonso)
   
-Talks
+
+Software
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* R
+* Matlab
+* LaTeX
+* From Federal Reserve experience: RATS, EViews
+
+
