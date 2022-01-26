@@ -11,21 +11,30 @@ author_profile: true
 
 {% include base_path %}
 
----
 
 
 Non-refereed Publications
 ---
 
-**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**
-[Download paper here](http://mattheweaston.github.io/files/ep2021_01.pdf)
+**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective** 
 
-Citation: 'Barsky, Robert and Matthew Easton (2021). &quot;The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective.&quot; <i>Chicago Fed Economic Perspectives</i>, 2021-01.'
+*with Robert Barsky*
+
+[Paper](http://mattheweaston.github.io/files/ep2021_01.pdf)
+
+Citation: Barsky, Robert and Matthew Easton (2021). &quot;The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective.&quot; <i>Chicago Fed Economic Perspectives</i>, 2021-01.
 
 ---
 
 Working Papers
 ---
+
+**Interest Rates or Haircuts?: Prices Versus Quantities in the Market for Collateralized Risky Loans**
+
+*with Robert Barsky and Theodore Bogusz*
+
+[Paper]http://mattheweaston.github.io/files/frbchiwp_201609.pdf)
+
 Barsky, Robert, Theodore Bogusz, and Matthew Easton (2016). "Interest Rates or Haircuts?: Prices Versus Quantities in the Market for Collateralized Risky Loans". *Chicago Fed Working Paper Series*, 2016-19.
 
 ---
