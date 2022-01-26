@@ -10,7 +10,11 @@ redirect_from:
 {% include base_path %}
 
 
+
+
 [My full CV is available here.](http://mattheweaston.github.io/files/cv_202201.pdf)
+
+
 
 
 
