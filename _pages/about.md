@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: ""
-excerpt: "About Me"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am currently building my website. For now, some (if not all) pages will be incomplete. 
+I am currently building my website. For now, some (if not all) pages will be unfinished. 
 --------
 
 I am a third-year economics PhD student at Columbia University. 
