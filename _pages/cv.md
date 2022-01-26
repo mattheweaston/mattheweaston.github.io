@@ -9,6 +9,11 @@ redirect_from:
 
 {% include base_path %}
 
+
+[My full CV is available here.](http://mattheweaston.github.io/files/cv_202201.pdf)
+
+
+
 Education
 ------
 * Ph.D in Economics, Columbia University, 2024 (expected)
