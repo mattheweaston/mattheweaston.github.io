@@ -11,7 +11,7 @@ author_profile: true
 Macroeconomics
 ---
 
-- [FRED](https://fred.stlouisfed.org/) *(Federal Reserve Economic Data, hosted by Federal Reserve Bank of St. Louis)*
+- [FRED](https://fred.stlouisfed.org/){:target="_blank"} *(Federal Reserve Economic Data, hosted by Federal Reserve Bank of St. Louis)*
 
   - [Nominal GDP](https://fred.stlouisfed.org/series/GDP) (GDP), [Real GDP](https://fred.stlouisfed.org/series/GDPC1) (GDPC1)
   - [Unemployment Rate](https://fred.stlouisfed.org/series/UNRATE) (UNRATE)
