@@ -17,7 +17,7 @@ Non-refereed Publications
 ---
 
 **The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective** <br>
-*with Robert Barsky*
+*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert)*
 
 [Paper](http://mattheweaston.github.io/files/ep2021_01.pdf)
 
@@ -29,7 +29,7 @@ Working Papers
 ---
 
 **Interest Rates or Haircuts?: Prices Versus Quantities in the Market for Collateralized Risky Loans** <br>
-*with Robert Barsky and Theodore Bogusz*
+*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert) and Theodore Bogusz*
 
 [Paper](http://mattheweaston.github.io/files/frbchiwp_201609.pdf)
 
