@@ -82,8 +82,7 @@ Other
 - [One of the best economics papers I've read](https://www.roulette-bet.com/files/samuelson-kelly.pdf){:target="_blank"}
 - Photos of economists from Robert J. Gordon: 
   - [Super-Antiques 1967-1971](https://gordon.economics.northwestern.edu/super-antiques-1967-71/){:target="_blank"}
-  - [Antiques](https://gordon.economics.northwestern.edu/antiques-1978-94/){:target="_blank"}
-  - [Middle Period](https://gordon.economics.northwestern.edu/middle-period-1996-2010/){:target="_blank"}
-  - [Contemporary](https://gordon.economics.northwestern.edu/contemporary-2011-19-reverse/){:target="_blank"}
+  - [Antiques 1978-1994](https://gordon.economics.northwestern.edu/antiques-1978-94/){:target="_blank"}
+  - [Middle Period 1996-2010](https://gordon.economics.northwestern.edu/middle-period-1996-2010/){:target="_blank"}
+  - [Contemporary 2011-2019](https://gordon.economics.northwestern.edu/contemporary-2011-19-reverse/){:target="_blank"}
 - [Bob Hall's Beamer code](http://www.stanford.edu/~rehall/BeamerSkeleton.tex){:target="_blank"}
-- 
