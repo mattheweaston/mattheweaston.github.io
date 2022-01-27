@@ -58,6 +58,7 @@ Miscellaneous Data
 - [LobbyView](https://www.lobbyview.org/){:target="_blank"} *(U.S. federal lobbying data, digitized)*
 - [OpenSecrets](https://www.opensecrets.org/){:target="_blank"} *(U.S. money-in-politics and influence tracker)*
 - [FOMC Schedule, Transcripts, and Minutes](https://www.federalreserve.gov/monetarypolicy/fomccalendars.htm){:target="_blank"} 
+- [New York City Record](http://cityrecord.engineering.nyu.edu/about.php){:target="_blank"}
 
 
 ---
