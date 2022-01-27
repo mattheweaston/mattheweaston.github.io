@@ -14,7 +14,7 @@ redirect_from:
 
 <br>
 
-[My full CV is available here.](http://mattheweaston.github.io/files/cv_202201.pdf)
+[My full CV is available here.](http://mattheweaston.github.io/files/cv_202201.pdf){:table="_blank"}
 
 
 ---
