@@ -8,7 +8,7 @@ author_profile: true
 ---
 
 
-Macroeconomics
+Macroeconomic Data
 ---
 
 - [FRED](https://fred.stlouisfed.org/){:target="_blank"} *(Federal Reserve Economic Data, hosted by Federal Reserve Bank of St. Louis)*
@@ -26,11 +26,13 @@ Macroeconomics
 
 - [QuantGov](https://www.quantgov.org/){:target="_blank"} *(U.S. macroeconomic, policy, and political data)*
 
+- [NBER Business Cycle Dating](https://www.nber.org/research/business-cycle-dating){:target="_blank"}
+
   
 
 ---
 
-International Trade
+International Trade Data
 ---
 
 - [DataWeb](https://dataweb.usitc.gov/){:target="_blank"} *(US ITC-hosted website for Census trade data, combined with tariff data)*
@@ -38,7 +40,7 @@ International Trade
 
 ---
 
-Finance
+Finance Data
 ---
 
 - [Yahoo Finance](https://finance.yahoo.com/){:target="_blank"} *(Free finance data)*
@@ -48,7 +50,7 @@ Finance
 ---
 
 
-Other Data
+Miscellaneous Data
 ---
 
 - [FedWatch](https://www.cmegroup.com/trading/interest-rates/countdown-to-fomc.html){:target="_blank"} *(Federal Reserve target rate change probabilities)*
@@ -66,3 +68,22 @@ Resources
 - [NBER](https://www.nber.org/){:target="_blank"} *(National Bureau of Economic Research)*
 - [Credit Suisse Global Wealth Report](https://www.credit-suisse.com/about-us/en/reports-research/global-wealth-report.html){:target="_blank"} 
 - [Vanguard Research Library](https://corporate.vanguard.com/content/corporatesite/us/en/corp/what-we-think/research-library.html){:target="_blank"} 
+
+
+
+
+
+
+---
+
+Other
+---
+
+- [One of the best economics papers I've read](https://www.roulette-bet.com/files/samuelson-kelly.pdf){:target="_blank"}
+- Photos of economists from Robert J. Gordon: 
+  - [Super-Antiques 1967-1971](https://gordon.economics.northwestern.edu/super-antiques-1967-71/){:target="_blank"}
+  - [Antiques](https://gordon.economics.northwestern.edu/antiques-1978-94/){:target="_blank"}
+  - [Middle Period](https://gordon.economics.northwestern.edu/middle-period-1996-2010/){:target="_blank"}
+  - [Contemporary](https://gordon.economics.northwestern.edu/contemporary-2011-19-reverse/){:target="_blank"}
+- [Bob Hall's Beamer code](http://www.stanford.edu/~rehall/BeamerSkeleton.tex){:target="_blank"}
+- 
