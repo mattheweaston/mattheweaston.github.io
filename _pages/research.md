@@ -16,28 +16,28 @@ author_profile: true
 Non-refereed Publications
 ---
 
-**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"}*
++ **The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective** <br>
+	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"}*
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Paper](http://mattheweaston.github.io/files/ep2021_01.pdf){:target="_blank"}
+	[Paper](http://mattheweaston.github.io/files/ep2021_01.pdf){:target="_blank"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sub><sup>Citation: Barsky, Robert and Matthew Easton (2021). &quot;The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective.&quot; <i>Chicago Fed Economic Perspectives</i>, 2021-01.</sup></sub>
+	Citation: Barsky, Robert and Matthew Easton (2021). &quot;The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective.&quot; <i>Chicago Fed Economic Perspectives</i>, 2021-01.
 
 ---
 
 Working Papers
 ---
 
-**Interest Rates or Haircuts?: Prices Versus Quantities in the Market for Collateralized Risky Loans** <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Theodore Bogusz*
++ **Interest Rates or Haircuts?: Prices Versus Quantities in the Market for Collateralized Risky Loans** <br>
+	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Theodore Bogusz*
 
-&nbsp;&nbsp;&nbsp;&nbsp;[Paper](http://mattheweaston.github.io/files/frbchiwp_201609.pdf){:target="_blank"}
+	[Paper](http://mattheweaston.github.io/files/frbchiwp_201609.pdf){:target="_blank"}
 
-&nbsp;&nbsp;&nbsp;&nbsp;<sub><sup>Citation: Barsky, Robert, Theodore Bogusz, and Matthew Easton (2016). "Interest Rates or Haircuts?: Prices Versus Quantities in the Market for Collateralized Risky Loans". *Chicago Fed Working Paper Series*, 2016-19.</sup></sub>
+	Citation: Barsky, Robert, Theodore Bogusz, and Matthew Easton (2016). "Interest Rates or Haircuts?: Prices Versus Quantities in the Market for Collateralized Risky Loans". *Chicago Fed Working Paper Series*, 2016-19.
 
 ---
 
 Work in Progress
 ---
 
-**The 2018 - 2019 U.S. Trade War and the Returns to Trade Lobbying**
++ **The 2018 - 2019 U.S. Trade War and the Returns to Trade Lobbying**
