@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Easton"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Matthew Easton"
 description              : #&description "personal description"
