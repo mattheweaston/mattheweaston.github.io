@@ -1,8 +1,3 @@
-<style type="text/css">
-details:hover { cursor: pointer }
-</style>
-
-
 ---
 layout: archive
 title: "Research"
