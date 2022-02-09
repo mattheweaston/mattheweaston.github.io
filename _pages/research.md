@@ -33,7 +33,7 @@ Non-refereed Publications
 Working Papers
 ---
 
-+ \(2016\)**Interest Rates or Haircuts?: Prices Versus Quantities in the Market for Collateralized Risky Loans** <br>
++ \(2016\) **Interest Rates or Haircuts?: Prices Versus Quantities in the Market for Collateralized Risky Loans** <br>
 	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Theodore Bogusz*
 
 	[Paper](http://mattheweaston.github.io/files/frbchiwp_201609.pdf){:target="_blank"}
