@@ -1,9 +1,11 @@
 .container {
     width:100%;
     border:1px solid #d3d3d3;
+    cursor: pointer;
 }
 .container div {
     width:100%;
+    cursor: pointer;
 }
 .container .header {
     background-color:#d3d3d3;
@@ -14,3 +16,5 @@
 .container .content {
     display: none;
     padding : 5px;
+    cursor: pointer;
+}
