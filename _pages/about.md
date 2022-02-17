@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+
+---
+
+
 I am a third-year economics PhD student at Columbia University. 
 
 My current research interests are international trade, macroeconomics, and political economy. 
