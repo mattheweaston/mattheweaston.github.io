@@ -16,9 +16,7 @@ I am a fourth-year economics PhD student at Columbia University.
 
 My current research interests are international trade, urban economics, and macroeconomics. Prior to coming to Columbia, I graduated from Pennsylvania State University and was a research assistant at the Federal Reserve Bank of Chicago. To see my research.
 
-[Research](https://mattheweaston.github.io/research/)
-[CV](https://mattheweaston.github.io/cv/)
-[Data and Miscellaneous Links](https://mattheweaston.github.io/links/)
+
 
 
 
