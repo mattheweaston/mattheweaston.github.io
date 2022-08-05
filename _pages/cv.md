@@ -12,16 +12,17 @@ redirect_from:
 
 ---
 
-[My full CV is available here.](http://mattheweaston.github.io/files/cv_202201.pdf){:target="_blank"}
+[My full CV is available here.](http://mattheweaston.github.io/files/cv_202207.pdf){:target="_blank"}
 
 
 
 
 Education
 ------
-* Ph.D. in Economics, Columbia University, 2024 (expected)
-* M.A. in Economics, Columbia University, 2021
-* B.S. in Mathematics, Pennsylvania State University, 2016
+* Ph.D., Economics, Columbia University, 2024 (expected)
+* M.Phil., Economics, Columbia University, 2022
+* M.A., Economics, Columbia University, 2021
+* B.S., Mathematics, Pennsylvania State University, 2016
 
 
 
@@ -31,6 +32,14 @@ Prior Employment
 * Research Assistant 2016-2018, Senior Research Assistant 2018-2019
   * Federal Reserve Bank of Chicago
   * Research and Policy Supervisors: Robert Barsky, Marco Bassetto, Spencer Krane
+
+
+
+
+Research Assistant Experience (at Columbia University)
+-----
+* Donald Davis, Summer 2022
+
 
 
 
