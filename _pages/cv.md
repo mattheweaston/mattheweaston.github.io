@@ -17,7 +17,6 @@ redirect_from:
 [My full CV is available here.](http://mattheweaston.github.io/files/cv_202201.pdf){:target="_blank"}
 
 
----
 
 
 Education
