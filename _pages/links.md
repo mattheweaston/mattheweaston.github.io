@@ -87,4 +87,3 @@ Other
   - [Antiques 1978-1994](https://gordon.economics.northwestern.edu/antiques-1978-94/){:target="_blank"}
   - [Middle Period 1996-2010](https://gordon.economics.northwestern.edu/middle-period-1996-2010/){:target="_blank"}
   - [Contemporary 2011-2019](https://gordon.economics.northwestern.edu/contemporary-2011-19-reverse/){:target="_blank"}
-- [Bob Hall's Beamer code](http://www.stanford.edu/~rehall/BeamerSkeleton.tex){:target="_blank"}
