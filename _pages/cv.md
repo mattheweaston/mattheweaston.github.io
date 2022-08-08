@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-[My full CV is available here.](http://mattheweaston.github.io/files/cv_202207.pdf){:target="_blank"}
+[My full CV is available here.](https://mattheweaston.github.io/files/cv_202207.pdf){:target="_blank"}
 
 
 
