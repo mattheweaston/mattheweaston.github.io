@@ -34,15 +34,15 @@ Non-refereed Publications
 Working Papers
 ---
 
-+ \(2016\) **Interest Rates or Haircuts?: Prices Versus Quantities in the Market for Collateralized Risky Loans** <br>
-	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Theodore Bogusz*
++ \(2016\) **Margins vs. Interest Rates in Collateral Equilibrium** <br>
+	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogusz*
 
-	[Paper](https://mattheweaston.github.io/files/frbchiwp_201609.pdf){:target="_blank"}
+	[Paper](https://mattheweaston.github.io/files/interest_rates_202205_clean.pdf){:target="_blank"}
 	
 	<details>
 		<summary>Click Here for Abstract</summary>
 		
-		Markets for risky loans clear on two dimensions - an interest rate (or equivalently a spread above the riskless rate) and a specification of the amount of collateral per dollar of lending. The latter is summarized by the margin or "haircut" associated with the loan. Some key models of endogenous collateral constraints imply that the primary equilibrating force will be in the form of haircuts rather than movements in interest rate spreads. Indeed, an important benchmark model, derived in a two-state world, implies that haircuts will adjust to render all lending riskless, and that a loss of risk capital on the part of borrowers has profound effects on asset prices. Quantitative analysis of a model of collateral equilibrium with a continuum of states turns these results on their heads. The bulk of the response to lenders' perception of increased default risk is in the form of higher default premia. Further, with high initial leverage, reductions in risk capital decrease equilibrium margins almost proportionately, while asset prices barely move. To the extent that one believes that it is a stylized fact that haircuts move more than spreads - as seen, for example, in bilateral repo data from 2007-2008 - this reversal is disturbing.
+		Markets for collateralized risky loans clear on two dimensions - an interest rate (or a spread above the riskless rate) and a specification of the amount of collateral per dollar of lending. The latter is summarized by the margin or "haircut" associated with the loan. Although data from the bilateral repo market suggest that interest spreads move far less than margins, particularly in financial crises, the theory of collateral equilibrium with continuous belief distributions and realistically high leverage ratios has exactly the opposite implication.
 	</details>
 	
 	
