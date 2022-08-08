@@ -12,14 +12,14 @@ redirect_from:
 
 ---
 
-[My full CV is available here.](https://mattheweaston.github.io/files/cv_202207.pdf){:target="_blank"}
+[My full CV is available here.](https://mattheweaston.github.io/files/cv_202208.pdf){:target="_blank"}
 
 
 
 
 Education
 ------
-* Ph.D., Economics, Columbia University, 2024 (expected)
+* Ph.D., Economics, Columbia University, 2019 - Present
 * M.Phil., Economics, Columbia University, 2022
 * M.A., Economics, Columbia University, 2021
 * B.S., Mathematics, Pennsylvania State University, 2016
