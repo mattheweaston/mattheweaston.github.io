@@ -34,7 +34,7 @@ Non-refereed Publications
 Working Papers
 ---
 
-+ \(2016\) **Margins vs. Interest Rates in Collateral Equilibrium** <br>
++ \(2022\) **Margins vs. Interest Rates in Collateral Equilibrium** <br>
 	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogusz*
 
 	[Paper](https://mattheweaston.github.io/files/interest_rates_202205_clean.pdf){:target="_blank"}
