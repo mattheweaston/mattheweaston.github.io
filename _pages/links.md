@@ -81,7 +81,7 @@ Resources
 Other
 ---
 
-- [One of the best works in econ](https://www.roulette-bet.com/files/samuelson-kelly.pdf){:target="_blank"}
+- [Some good work, there is no doubt. Worth a read.](https://www.roulette-bet.com/files/samuelson-kelly.pdf){:target="_blank"}
 - Photos of economists from Robert J. Gordon: 
   - [Super-Antiques 1967-1971](https://gordon.economics.northwestern.edu/super-antiques-1967-71/){:target="_blank"}
   - [Antiques 1978-1994](https://gordon.economics.northwestern.edu/antiques-1978-94/){:target="_blank"}
