@@ -19,7 +19,7 @@ Non-refereed Publications
 + \(2021\) **The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective** <br>
 	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"}* | *Federal Reserve Bank of Chicago Economic Perspectives*
 
-	[Paper](https://mattheweaston.github.io/files/ep2021_01.pdf){:target="_blank"}
+	[Paper](https://www.matthew-easton.com/files/ep2021_01.pdf){:target="_blank"}
 	
 
 	<details>
@@ -37,7 +37,7 @@ Working Papers
 + \(2022\) **Margins vs. Interest Rates in Collateral Equilibrium** <br>
 	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogusz*
 
-	[Paper](https://mattheweaston.github.io/files/interest_rates_202205_clean.pdf){:target="_blank"}
+	[Paper](https://www.matthew-easton.com/files/interest_rates_202205_clean.pdf){:target="_blank"}
 	
 	<details>
 		<summary>Click Here for Abstract</summary>
