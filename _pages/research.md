@@ -56,4 +56,4 @@ Work in Progress
 
 + **Cities, Amenities, and Spatial Equilibrium**
 
-+ **The Predictive Power of Zipf's Law**
++ **The Political Economy of Zipf's Law**
