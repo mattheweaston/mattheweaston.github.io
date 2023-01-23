@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-[My full CV is available here.](https://www.matthew-easton.com/files/cv_202212.pdf){:target="_blank"}
+[My full CV is available here.](https://www.matthew-easton.com/files/cv_202301.pdf){:target="_blank"}
 
 
 
@@ -46,6 +46,8 @@ Research Assistant Experience (at Columbia University)
 
 Teaching Assistant Experience (at Columbia University)
 ------
+* Finance and the Real Economy (undergraduate, Spring 2023, Matthieu Gomez)
+* Economic Development of Japan (undergraduate, Fall 2022, David Weinstein)
 * Economics of New York City (undergraduate, Spring 2022, Donald Davis)
 * Financial Crises (undergraduate, Fall 2021, José Scheinkman)
 * Financial Economics (undergraduate, Spring 2021 and Summer 2021, Martina Jasova and Tamrat Gashaw)

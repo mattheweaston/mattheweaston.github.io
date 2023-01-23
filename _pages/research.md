@@ -54,6 +54,6 @@ Work in Progress
 
 + **The 2018 - 2019 U.S. Trade War and the Returns to Trade Lobbying**
 
-+ **Cities, Amenities, and Spatial Equilibrium**
++ **Why Have Warmer Cities Grown**
 
-+ **The Political Economy of Zipf's Law**
++ **The Political Economy of Zipf's Law** with Patrick Farrell
