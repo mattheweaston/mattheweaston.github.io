@@ -56,4 +56,5 @@ Work in Progress
 
 + **Why Have Warmer Cities Grown**
 
-+ **The Political Economy of Zipf's Law** with Patrick Farrell
++ **The Political Economy of Zipf's Law** <br>
+	*with Patrick Farrell*
