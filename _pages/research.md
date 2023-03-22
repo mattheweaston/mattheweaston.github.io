@@ -52,5 +52,5 @@ Work in Progress
 + **Population Distributions and Spatial Equilibrium** <br>
 	*with Patrick Farrell*
 
-+ **A Survey of Unemployment Across Metro Areas** <br>
++ **A Survey of Unemployment in Metro Areas** <br>
 	*with Donald Davis and Tomasz Michalski*
