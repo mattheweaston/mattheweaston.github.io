@@ -13,14 +13,11 @@ author_profile: true
 
 ---
 
-Non-refereed Publications
+Federal Reserve Publications
 ---
 
-+ \(2021\) **The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective** <br>
-	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"}* | *Federal Reserve Bank of Chicago Economic Perspectives*
-
-	[Paper](https://www.matthew-easton.com/files/ep2021_01.pdf){:target="_blank"}
-	
++ [**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf){:target="_blank"} <br>
+	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"}* | *Federal Reserve Bank of Chicago Economic Perspectives*, 2021-01
 
 	<details>
   		<summary>Click Here for Abstract</summary>
@@ -34,8 +31,8 @@ Non-refereed Publications
 Working Papers
 ---
 
-+ \(2022\) **Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs** <br>
-	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogus*
++ **Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs** <br>
+	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogus*, \(2022\)
 
 	[Paper](https://www.matthew-easton.com/files/20220818_bbe.pdf){:target="_blank"}
 	
@@ -52,9 +49,7 @@ Working Papers
 Work in Progress
 ---
 
-+ **The 2018 - 2019 U.S. Trade War and the Returns to Trade Lobbying**
++ **Why Have Warmer Cities Grown?**
 
-+ **Why Have Warmer Cities Grown**
-
-+ **The Political Economy of Zipf's Law** <br>
++ **Population Distributions and Spatial Equilibrium** <br>
 	*with Patrick Farrell*

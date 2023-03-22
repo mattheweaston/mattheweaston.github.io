@@ -12,55 +12,9 @@ redirect_from:
 
 ---
 
-[My full CV is available here.](https://www.matthew-easton.com/files/cv_202301.pdf){:target="_blank"}
+[My full CV is available here.](https://www.matthew-easton.com/files/cv_202303.pdf){:target="_blank"}
 
 
 
-
-Education
-------
-* Ph.D., Economics, Columbia University, 2019 - Present
-* M.Phil., Economics, Columbia University, 2022
-* M.A., Economics, Columbia University, 2021
-* B.S., Mathematics, Pennsylvania State University, 2016
-
-
-
-
-Prior Employment
-------
-* Research Assistant 2016-2018, Senior Research Assistant 2018-2019
-  * Federal Reserve Bank of Chicago
-  * Research and Policy Supervisors: Robert Barsky, Marco Bassetto, Spencer Krane
-
-
-
-
-Research Assistant Experience (at Columbia University)
------
-* Donald Davis, Summer 2022
-
-
-
-
-
-Teaching Assistant Experience (at Columbia University)
-------
-* Finance and the Real Economy (undergraduate, Spring 2023, Matthieu Gomez)
-* Economic Development of Japan (undergraduate, Fall 2022, David Weinstein)
-* Economics of New York City (undergraduate, Spring 2022, Donald Davis)
-* Financial Crises (undergraduate, Fall 2021, José Scheinkman)
-* Financial Economics (undergraduate, Spring 2021 and Summer 2021, Martina Jasova and Tamrat Gashaw)
-* Intermediate Macroeconomics (undergraduate, Fall 2020, Irasema Alonso)
-  
-
-
-
-Software
-------
-* R
-* Matlab
-* LaTeX
-* From Federal Reserve experience: RATS, EViews
 
 
