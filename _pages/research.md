@@ -31,10 +31,8 @@ Federal Reserve Publications
 Working Papers
 ---
 
-+ **Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs** <br>
++ [**Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs**](https://www.matthew-easton.com/files/20220818_bbe.pdf){:target="_blank"} <br>
 	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogus*, \(2022\)
-
-	[Paper](https://www.matthew-easton.com/files/20220818_bbe.pdf){:target="_blank"}
 	
 	<details>
 		<summary>Click Here for Abstract</summary>
@@ -53,3 +51,6 @@ Work in Progress
 
 + **Population Distributions and Spatial Equilibrium** <br>
 	*with Patrick Farrell*
+
++ **A Survey of Unemployment Across Metro Areas** <br>
+	*with Donald Davis and Tomasz Michalski*
