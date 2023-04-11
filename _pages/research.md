@@ -17,7 +17,7 @@ Federal Reserve Publications
 ---
 
 + [**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf){:target="_blank"} <br>
-	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"}* | *Federal Reserve Bank of Chicago Economic Perspectives*, 2021-01
+	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} (2021). *Federal Reserve Bank of Chicago Economic Perspectives, 2021-01.*
 
 	<details>
   		<summary>Click Here for Abstract</summary>
@@ -32,7 +32,7 @@ Working Papers
 ---
 
 + [**Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs**](https://www.matthew-easton.com/files/20220818_bbe.pdf){:target="_blank"} <br>
-	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogus*, \(2022\)
+	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogus, \(2022\)*
 	
 	<details>
 		<summary>Click Here for Abstract</summary>
