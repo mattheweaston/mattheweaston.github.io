@@ -57,6 +57,5 @@ Work in Progress
 	*with Donald Davis and Tomasz Michalski*
 	
 + **Dynamics of Segregation** <br>
-	
 	*with Donald Davis and Stephan Thies*
 	
