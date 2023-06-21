@@ -21,7 +21,6 @@ Federal Reserve Publications
 	<details>
   		<summary>Click Here for Abstract</summary>
 		<font size="1">The authors revisit Ben Bernanke’s global saving glut (GSG) hypothesis from 2005—which links low long-term real interest rates in the United States to excess saving in a number of non-Western countries, including, but not limited to, China. Using an analytical framework and empirical data, they find that the ability of the GSG hypothesis to explain the fall in long-term real rates between 2002 and 2006 is likely much greater than its ability to account for the further fall in these rates from the Great Recession onward. </font>
-	
 	</details>
 
 
@@ -37,7 +36,6 @@ Working Papers
 		The power law distribution of city populations, often called Zipf's law for cities, is a striking empirical regularity observed in most countries and documented across many periods of time as far back as the Bronze Age. City population distributions are also resilient, with the same cities holding roughly the same ranks in the distribution over long periods of time and recovering rapidly from large negative shocks. We propose an explanation for Zipf's law based on geography and the interactions between locations across space within standard quantitative spatial equilibrium (QSE) models that can account for these characteristics of city population distributions. We provide microfoundations for aggregating spatially correlated observable attributes of locations into productivity and amenity "fundamentals", demonstrating that these fundamentals will also be spatially correlated and lognormally distributed. The equilibrium population will also follow a lognormal distribution as a result of this spatial correlation within a broad class of QSE models. For highly populated locations, i.e. cities, the population distribution will appear to follow a power law as a result of this inherited lognormality.
 	</details>
 <br>
-
 + [**Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs**](https://www.matthew-easton.com/files/20220818_bbe.pdf){:target="_blank"} <br>
 	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogus \(2022\)*
 	<details>
