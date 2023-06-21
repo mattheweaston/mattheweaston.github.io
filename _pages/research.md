@@ -16,7 +16,7 @@ author_profile: true
 Federal Reserve Publications
 ---
 
-+ [**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf){:target="_blank"} with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} \(2021\). *Federal Reserve Bank of Chicago Economic Perspectives*, 2021-01.  
++ [**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf){:target="_blank"}, with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} \(2021\). *Federal Reserve Bank of Chicago Economic Perspectives*, 2021-01.  
 
 	<details>
   		<summary>Click Here for Abstract</summary>
@@ -29,7 +29,7 @@ Federal Reserve Publications
 Working Papers
 ---
 
-+ [**Zipf's Law in Spatial Equilibrium**](https://www.matthew-easton.com/files/ef_zipf_202306.pdf){:target="_blank"} with Patrick Farrell (2023)  
++ [**Zipf's Law in Spatial Equilibrium**](https://www.matthew-easton.com/files/ef_zipf_202306.pdf){:target="_blank"}, with Patrick Farrell (2023)  
 
 	<details>
 		<summary>Click Here for Abstract</summary>
@@ -37,7 +37,7 @@ Working Papers
 	</details>
 
 
-+ [**Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs**](https://www.matthew-easton.com/files/20220818_bbe.pdf){:target="_blank"} with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogus \(2022\)  
++ [**Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs**](https://www.matthew-easton.com/files/20220818_bbe.pdf){:target="_blank"}, with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} and Avery Bogus \(2022\)  
 
 	<details>
 		<summary>Click Here for Abstract</summary>
@@ -52,6 +52,6 @@ Work in Progress
 
 + **Why Have Warmer Cities Grown?**
 
-+ **A Survey of Unemployment in Metro Areas** with Donald Davis and Tomasz Michalski
++ **A Survey of Unemployment in Metro Areas**, with Donald Davis and Tomasz Michalski
 	
-+ **Dynamics of Segregation** with Donald Davis and Stephan Thies
++ **Dynamics of Segregation**, with Donald Davis and Stephan Thies
