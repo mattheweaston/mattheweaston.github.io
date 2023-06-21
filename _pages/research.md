@@ -20,8 +20,7 @@ Federal Reserve Publications
 	*with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert){:target="_blank"} \(2021\). Federal Reserve Bank of Chicago Economic Perspectives, 2021-01.*
 	<details>
   		<summary>Click Here for Abstract</summary>
-	
-		The authors revisit Ben Bernanke’s global saving glut (GSG) hypothesis from 2005—which links low long-term real interest rates in the United States to excess saving in a number of non-Western countries, including, but not limited to, China. Using an analytical framework and empirical data, they find that the ability of the GSG hypothesis to explain the fall in long-term real rates between 2002 and 2006 is likely much greater than its ability to account for the further fall in these rates from the Great Recession onward.
+		<font size="1">The authors revisit Ben Bernanke’s global saving glut (GSG) hypothesis from 2005—which links low long-term real interest rates in the United States to excess saving in a number of non-Western countries, including, but not limited to, China. Using an analytical framework and empirical data, they find that the ability of the GSG hypothesis to explain the fall in long-term real rates between 2002 and 2006 is likely much greater than its ability to account for the further fall in these rates from the Great Recession onward. </font>
 	
 	</details>
 
