@@ -33,7 +33,7 @@ Working Papers
 		<summary>Click Here for Abstract</summary>
 		<font size="2">The power law distribution of city populations, often called Zipf's law for cities, is a striking empirical regularity observed in most countries and documented across many periods of time as far back as the Bronze Age. City population distributions are also resilient, with the same cities holding roughly the same ranks in the distribution over long periods of time and recovering rapidly from large negative shocks. We propose an explanation for Zipf's law based on geography and the interactions between locations across space within standard quantitative spatial equilibrium (QSE) models that can account for these characteristics of city population distributions. We provide microfoundations for aggregating spatially correlated observable attributes of locations into productivity and amenity "fundamentals", demonstrating that these fundamentals will also be spatially correlated and lognormally distributed. The equilibrium population will also follow a lognormal distribution as a result of this spatial correlation within a broad class of QSE models. For highly populated locations, i.e. cities, the population distribution will appear to follow a power law as a result of this inherited lognormality.</font>
 	</details>  
-
+<br/>
 + [**Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs**](https://www.matthew-easton.com/files/20220818_bbe.pdf), with [Robert Barsky](https://www.chicagofed.org/people/b/barsky-robert) and Avery Bogus \(2022\)
 	<details>
 		<summary>Click Here for Abstract</summary>
