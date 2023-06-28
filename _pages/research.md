@@ -16,11 +16,11 @@ author_profile: true
 Federal Reserve Publications
 ---
 
-[**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf), with Robert Barsky \(2021\). *Federal Reserve Bank of Chicago Economic Perspectives*, 2021-01.  
-<details>
-    <summary>Click Here for Abstract</summary>
-<font size="2">The authors revisit Ben Bernanke’s global saving glut (GSG) hypothesis from 2005—which links low long-term real interest rates in the United States to excess saving in a number of non-Western countries, including, but not limited to, China. Using an analytical framework and empirical data, they find that the ability of the GSG hypothesis to explain the fall in long-term real rates between 2002 and 2006 is likely much greater than its ability to account for the further fall in these rates from the Great Recession onward. </font>
-</details>
+* [**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf), with Robert Barsky \(2021\). *Federal Reserve Bank of Chicago Economic Perspectives*, 2021-01.  
+	<details>
+	    <summary>Click Here for Abstract</summary>
+	<font size="2">The authors revisit Ben Bernanke’s global saving glut (GSG) hypothesis from 2005—which links low long-term real interest rates in the United States to excess saving in a number of non-Western countries, including, but not limited to, China. Using an analytical framework and empirical data, they find that the ability of the GSG hypothesis to explain the fall in long-term real rates between 2002 and 2006 is likely much greater than its ability to account for the further fall in these rates from the Great Recession onward. </font>
+	</details>
 
 
 ---
@@ -48,8 +48,8 @@ Working Papers
 Work in Progress
 ---
 
-**Why Have Warmer Cities Grown?**
+* **Why Have Warmer Cities Grown?**
 
-**A Survey of Unemployment in Metro Areas**, with Donald Davis and Tomasz Michalski
+* **A Survey of Unemployment in Metro Areas**, with Donald Davis and Tomasz Michalski
 
-**Dynamics of Segregation**, with Donald Davis and Stephan Thies
+* **Dynamics of Segregation**, with Donald Davis and Stephan Thies
