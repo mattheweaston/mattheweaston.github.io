@@ -2,7 +2,7 @@
 layout: archive
 title: "Links"
 permalink: /links/
-author_profile: true
+author_profile: false
 ---
 
 ---
