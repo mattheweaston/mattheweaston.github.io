@@ -3,6 +3,7 @@ permalink: /
 title: "Welcome!"
 excerpt: ""
 author_profile: false
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
