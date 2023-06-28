@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome!"
 excerpt: ""
 author_profile: false
 classes: wide
