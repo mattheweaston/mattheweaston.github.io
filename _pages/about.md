@@ -16,11 +16,11 @@ redirect_from:
 
 
 
-I am a rising fifth-year economics PhD student at [Columbia University](https://econ.columbia.edu/). My current research interests are urban and spatial economics, macroeconomics, and labor economics. 
+I am a rising fifth-year economics PhD student at [Columbia University](https://econ.columbia.edu/). My current research interests are urban and spatial economics, macroeconomics, and labor economics. You can contact me [here](me2713@columbia.edu).
 
 Prior to coming to Columbia, I graduated from Pennsylvania State University and was a senior research assistant at the Federal Reserve Bank of Chicago.
 
-[Contact](me2713@columbia.edu)
+
 
 
 
