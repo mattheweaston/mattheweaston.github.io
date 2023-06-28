@@ -10,7 +10,7 @@ author_profile: false
 
 {% include base_path %}
 
----
+
 
 Federal Reserve Publications
 ---
@@ -22,7 +22,7 @@ Federal Reserve Publications
 	</details>
 
 
----
+
 
 Working Papers
 ---
@@ -42,7 +42,7 @@ Working Papers
 	</details>   
 
 
----
+
 
 Work in Progress
 ---
