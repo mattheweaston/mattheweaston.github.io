@@ -12,7 +12,7 @@ redirect_from:
 
 ---
 
-<img src="figures/easton.png" alt="drawing" width="400" height="300" style= "float: left; padding-right: 30px"/> 
+<img src="/images/easton.png" alt="drawing" width="400" height="300" style= "float: left; padding-right: 30px"/> 
 
 
 
