@@ -20,6 +20,8 @@ I am a rising fifth-year economics PhD student at [Columbia University](https://
 
 Prior to coming to Columbia, I graduated from Pennsylvania State University and was a senior research assistant at the Federal Reserve Bank of Chicago.
 
+[Contact](me2713@columbia.edu)
+
 
 
 
