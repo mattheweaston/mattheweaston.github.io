@@ -33,6 +33,10 @@
 
 .masthead__menu {
 
+  @include breakpoint($large) {
+    @include prefix(2.5 of 12);
+  }
+
   ul {
     margin: 0;
     padding: 0;
