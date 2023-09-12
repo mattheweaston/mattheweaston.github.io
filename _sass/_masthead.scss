@@ -33,9 +33,9 @@
 
 .masthead__menu {
 
-  @include breakpoint($x-large) {
+  /* @include breakpoint($x-large) {
     @include prefix(0 of 12);
-  } /* desperate, previously was large and 2.5 of 12
+  } */
 
   ul {
     margin: 0;
