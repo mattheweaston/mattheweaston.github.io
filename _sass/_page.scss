@@ -128,10 +128,10 @@
     margin-bottom: 2em;
     padding: 3em 0;
     @include clearfix;
-    text-align: center; /* left align at links on top? */
+    text-align: left; /* left align at links on top? */
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: left;
     animation: intro 0.3s both;
     animation-delay: 0.25s;
 
