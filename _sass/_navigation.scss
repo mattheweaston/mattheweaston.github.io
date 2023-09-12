@@ -35,11 +35,11 @@
 
     @include breakpoint($large) {
       @include span(12 of 12 last);
-    }
+    } /* previously 10 of 12 */
 
     @include breakpoint($x-large) {
       @include prefix(0 of 12);
-    }
+    } /* previously 0.5 of 12 */
   }
 
   li {
@@ -206,7 +206,7 @@
 
     li {
       display: table-cell;
-      vertical-align: left;
+      vertical-align: left; /* previously "middle" */
 
       &:first-child {
         font-weight: bold;
