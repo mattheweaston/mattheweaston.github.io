@@ -33,9 +33,9 @@
 
 .masthead__menu {
 
-  /* @include breakpoint($x-large) {
-    @include prefix(0 of 12);
-  } */
+  */* @include breakpoint($x-large) {
+  *  @include prefix(0 of 12);
+  *} */
 
   ul {
     margin: 0;
@@ -46,7 +46,7 @@
 }
 
 .masthead__menu-item {
-  display: flex; /* previously display block */
+  display: block; /* previously display block */
   list-style-type: none;
   white-space: nowrap;
 
