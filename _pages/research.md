@@ -16,7 +16,8 @@ layout: single
 Federal Reserve Publications
 ---
 
-[**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf), with Robert Barsky \(2021\) \\
+[**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf) \\
+With Robert Barsky \(2021\) \\
 *Federal Reserve Bank of Chicago Economic Perspectives*, 2021-01.  
 	<details> 
 	    <summary>Abstract</summary>
@@ -29,7 +30,7 @@ Federal Reserve Publications
 Working Papers
 ---
 
-[**Zipf's Law in Spatial Equilibrium**](https://www.matthew-easton.com/files/ef_zipf_202308.pdf) \(August 2023\)\\ 
+[**Zipf's Law in Spatial Equilibrium**](https://www.matthew-easton.com/files/ef_zipf_202308.pdf) \(August 2023\) \\ 
 With Patrick Farrell 
 	<details> 
 		<summary>Abstract</summary>
