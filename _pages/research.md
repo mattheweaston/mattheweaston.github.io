@@ -15,16 +15,9 @@ layout: single
 Federal Reserve Publications
 ---
 
-[**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf) (2021)
+[**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf) (2021) <font size="3">With Robert Barsky. </font><font size="3">Federal Reserve Bank of Chicago Economic Perspectives, 2021-01. </font>
 
-<font size="3">With Robert Barsky. </font><font size="3">Federal Reserve Bank of Chicago Economic Perspectives, 2021-01. </font>
-
-
-
-<details> 
-    <summary>Abstract</summary>
-	<font size="2">The authors revisit Ben Bernanke’s global saving glut (GSG) hypothesis from 2005—which links low long-term real interest rates in the United States to excess saving in a number of non-Western countries, including, but not limited to, China. Using an analytical framework and empirical data, they find that the ability of the GSG hypothesis to explain the fall in long-term real rates between 2002 and 2006 is likely much greater than its ability to account for the further fall in these rates from the Great Recession onward. </font>
-</details>
+<font size="2">The authors revisit Ben Bernanke’s global saving glut (GSG) hypothesis from 2005—which links low long-term real interest rates in the United States to excess saving in a number of non-Western countries, including, but not limited to, China. Using an analytical framework and empirical data, they find that the ability of the GSG hypothesis to explain the fall in long-term real rates between 2002 and 2006 is likely much greater than its ability to account for the further fall in these rates from the Great Recession onward. </font>
 
 
 
@@ -32,30 +25,15 @@ Federal Reserve Publications
 Working Papers
 ---
 
-[**Zipf's Law in Spatial Equilibrium**](https://www.matthew-easton.com/files/ef_zipf_202308.pdf) (August 2023)
+[**Zipf's Law in Spatial Equilibrium**](https://www.matthew-easton.com/files/ef_zipf_202308.pdf) (August 2023) <font size="3">With Patrick Farrell</font>
 
-<font size="3">With Patrick Farrell</font>
-
-
-
-<details> 
-	<summary>Abstract</summary>
-	<font size="2">The appearance of a power law distribution for city populations is a distinctive and recurring feature of human geography. City population distributions are also resilient, recovering rapidly from shocks and consisting of the same cities at similar ranks over long periods, even as the growth of cities often appears to follow a random process. We propose an explanation for these patterns based on the spatial correlation of observable geographic attributes and the interactions between locations across space. We microfound the aggregation of spatially correlated geographic attributes into terms reflecting the productivity and amenity “fundamentals” of place, demonstrating that these terms will be spatially correlated and lognormally distributed. Given these fundamentals, we show that within many quantitative spatial equilibrium (QSE) models populations will also be lognormally distributed, appearing to follow a power law for highly populated locations (i.e., cities). Standard parameter values for agglomeration benefits, congestion externalities, and transportation costs result in city distributions consistent with Zipf’s law, a commonly observed power law for cities. Viewing the distribution of city populations as tail realizations of a lognormal population distribution allows for a better understanding of the observed variation in distributions across countries, time, and levels of geographic aggregations.</font>
-</details>  
-
-
-[**Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs**](https://www.matthew-easton.com/files/20220818_bbe.pdf) \(2022\)
-
-<font size="3">With Robert Barsky and Avery Bogus</font> 
+<font size="2">The appearance of a power law distribution for city populations is a distinctive and recurring feature of human geography. City population distributions are also resilient, recovering rapidly from shocks and consisting of the same cities at similar ranks over long periods, even as the growth of cities often appears to follow a random process. We propose an explanation for these patterns based on the spatial correlation of observable geographic attributes and the interactions between locations across space. We microfound the aggregation of spatially correlated geographic attributes into terms reflecting the productivity and amenity “fundamentals” of place, demonstrating that these terms will be spatially correlated and lognormally distributed. Given these fundamentals, we show that within many quantitative spatial equilibrium (QSE) models populations will also be lognormally distributed, appearing to follow a power law for highly populated locations (i.e., cities). Standard parameter values for agglomeration benefits, congestion externalities, and transportation costs result in city distributions consistent with Zipf’s law, a commonly observed power law for cities. Viewing the distribution of city populations as tail realizations of a lognormal population distribution allows for a better understanding of the observed variation in distributions across countries, time, and levels of geographic aggregations.</font>
 
 
 
- 
+[**Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs**](https://www.matthew-easton.com/files/20220818_bbe.pdf) (2022) <font size="3">With Robert Barsky and Avery Bogus</font> 
 
-<details> 
-	<summary>Abstract</summary>
-	<font size="2">There continues to be substantial interest in models combining heterogeneous beliefs about asset values with leverage generated by loans from pessimists to the optimistic natural buyers of the asset. This paper determines the size of the interest spread and margin on the loan as a function of the downside risk perceived by the lender, and the amount of risk capital put forward by the borrower. We show that in a continuous state version of a model of collateral equilibrium with high initial leverage, most of the burden of adjustment to increases in such risk are borne by an increase in the interest spread and not the margin or “haircut”. This is contrary both to the predictions of the much-discussed binomial asset pricing model and the stylized facts in empirical data from the bilateral repo market.</font>
-</details>   
+<font size="2">There continues to be substantial interest in models combining heterogeneous beliefs about asset values with leverage generated by loans from pessimists to the optimistic natural buyers of the asset. This paper determines the size of the interest spread and margin on the loan as a function of the downside risk perceived by the lender, and the amount of risk capital put forward by the borrower. We show that in a continuous state version of a model of collateral equilibrium with high initial leverage, most of the burden of adjustment to increases in such risk are borne by an increase in the interest spread and not the margin or “haircut”. This is contrary both to the predictions of the much-discussed binomial asset pricing model and the stylized facts in empirical data from the bilateral repo market.</font>
 
 
 
@@ -65,17 +43,9 @@ Work in Progress
 
 **Why Have Warmer Cities Grown?**
 
+**A Survey of Unemployment in Metro Areas** <font size="3">With Donald Davis and Tomasz Michalski</font>
 
-
-**A Survey of Unemployment in Metro Areas**
-
-<font size="3">With Donald Davis and Tomasz Michalski</font>
-
-
-
-**Dynamics of Segregation**
-
-<font size = "3">With Donald Davis and Stephan Thies</font>
+**Dynamics of Segregation** <font size = "3">With Donald Davis and Stephan Thies</font>
 
 
 
