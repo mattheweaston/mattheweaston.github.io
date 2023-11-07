@@ -2,7 +2,7 @@
 permalink: /
 excerpt: ""
 author_profile: false
-layout: single
+layout: default
 redirect_from: 
   - /about/
   - /about.html
