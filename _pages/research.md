@@ -15,8 +15,7 @@ layout: single
 Federal Reserve Publications
 ---
 
-[**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf) (2021)
-<font size="3">With Robert Barsky. </font><font size="3">Federal Reserve Bank of Chicago Economic Perspectives, 2021-01. </font>
+[**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf) (2021)<br><font size="3">With Robert Barsky. </font><br><font size="3"><i>Federal Reserve Bank of Chicago Economic Perspectives</i><, 2021-01.</font>
 
 <p><font size="2">The authors revisit Ben Bernanke’s global saving glut (GSG) hypothesis from 2005—which links low long-term real interest rates in the United States to excess saving in a number of non-Western countries, including, but not limited to, China. Using an analytical framework and empirical data, they find that the ability of the GSG hypothesis to explain the fall in long-term real rates between 2002 and 2006 is likely much greater than its ability to account for the further fall in these rates from the Great Recession onward. </font></p>
 
