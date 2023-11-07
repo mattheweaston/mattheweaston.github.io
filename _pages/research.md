@@ -15,10 +15,9 @@ layout: single
 Federal Reserve Publications
 ---
 
+
 [**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf) (2021)
-<font size="3">With Robert Barsky. </font><font size="3">Federal Reserve Bank of Chicago Economic Perspectives, 2021-01. </font>  
-
-
+<font size="3">With Robert Barsky. </font><font size="3">Federal Reserve Bank of Chicago Economic Perspectives, 2021-01. </font>
 
 <details> 
     <summary>Abstract</summary>
@@ -31,16 +30,14 @@ Federal Reserve Publications
 Working Papers
 ---
 
+
 [**Zipf's Law in Spatial Equilibrium**](https://www.matthew-easton.com/files/ef_zipf_202308.pdf) (August 2023)
-<font size="3">With Patrick Farrell</font>  
-
-
+<font size="3">With Patrick Farrell</font>
 
 <details> 
 	<summary>Abstract</summary>
 	<font size="2">The appearance of a power law distribution for city populations is a distinctive and recurring feature of human geography. City population distributions are also resilient, recovering rapidly from shocks and consisting of the same cities at similar ranks over long periods, even as the growth of cities often appears to follow a random process. We propose an explanation for these patterns based on the spatial correlation of observable geographic attributes and the interactions between locations across space. We microfound the aggregation of spatially correlated geographic attributes into terms reflecting the productivity and amenity “fundamentals” of place, demonstrating that these terms will be spatially correlated and lognormally distributed. Given these fundamentals, we show that within many quantitative spatial equilibrium (QSE) models populations will also be lognormally distributed, appearing to follow a power law for highly populated locations (i.e., cities). Standard parameter values for agglomeration benefits, congestion externalities, and transportation costs result in city distributions consistent with Zipf’s law, a commonly observed power law for cities. Viewing the distribution of city populations as tail realizations of a lognormal population distribution allows for a better understanding of the observed variation in distributions across countries, time, and levels of geographic aggregations.</font>
 </details>  
-
 
 [**Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs**](https://www.matthew-easton.com/files/20220818_bbe.pdf) \(2022\)
 <font size="3">With Robert Barsky and Avery Bogus</font>  
@@ -61,10 +58,8 @@ Work in Progress
 **Why Have Warmer Cities Grown?**
 
 
-
 **A Survey of Unemployment in Metro Areas**
 <font size="3">With Donald Davis and Tomasz Michalski</font>
-
 
 
 **Dynamics of Segregation**
