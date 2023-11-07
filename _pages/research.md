@@ -16,7 +16,7 @@ Federal Reserve Publications
 ---
 
 [**The Global Saving Glut and the Fall in U.S. Real Interest Rates: A 15-Year Retrospective**](https://www.matthew-easton.com/files/ep2021_01.pdf) (2021)
-<font size="3">With Robert Barsky. </font><font size="3">*Federal Reserve Bank of Chicago Economic Perspectives, 2021-01.* </font>
+<font size="3">With Robert Barsky. </font><font size="3">Federal Reserve Bank of Chicago Economic Perspectives, 2021-01. </font>  
 
 <details> 
     <summary>Abstract</summary>
@@ -30,7 +30,7 @@ Working Papers
 ---
 
 [**Zipf's Law in Spatial Equilibrium**](https://www.matthew-easton.com/files/ef_zipf_202308.pdf) (August 2023)
-<font size="3">With Patrick Farrell</font>
+<font size="3">With Patrick Farrell</font>  
 
 <details> 
 	<summary>Abstract</summary>
@@ -40,7 +40,7 @@ Working Papers
 
 
 [**Interest Spreads and Margins in Collateral Equilibrium with Heterogeneous Beliefs**](https://www.matthew-easton.com/files/20220818_bbe.pdf) \(2022\)
-<font size="3">With Robert Barsky and Avery Bogus</font>
+<font size="3">With Robert Barsky and Avery Bogus</font>  
 
 <details> 
 	<summary>Abstract</summary>
@@ -54,7 +54,6 @@ Work in Progress
 ---
 
 **Why Have Warmer Cities Grown?**
-
 
 **A Survey of Unemployment in Metro Areas**
 <font size="3">With Donald Davis and Tomasz Michalski</font>
