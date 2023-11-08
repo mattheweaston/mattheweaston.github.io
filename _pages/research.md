@@ -45,7 +45,7 @@ Work in Progress
 
 **A Survey of Unemployment in Metro Areas** <br><font size="3">With Donald Davis and Tomasz Michalski</font>
 
-**Dynamics of Segregation** <br><font size = "3">With Donald Davis and Stephan Thies</font>
+**What Role Does Location Play in Racial Segregation? Tipping and the Checkerboard in the Data** <br><font size = "3">With Donald Davis and Stephan Thies</font>
 
 
 
